@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GreenStitchAssignmentApplication<GreenStitch_Backend_Assignment>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.GreenStitch.GreenStitchAssignmentApplication",
+            "projectName": "GreenStitchBackendAssignment",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
